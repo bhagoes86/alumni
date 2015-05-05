@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Alumni
+        psr4_prefix: Alumni
+        src_path: app
